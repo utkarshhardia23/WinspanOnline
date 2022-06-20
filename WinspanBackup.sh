@@ -1,0 +1,1 @@
+pg_dump -Fc -h 127.0.0.1 -U dbuser -W 'NotmyPassword' Winspan -f Winspan.dump
